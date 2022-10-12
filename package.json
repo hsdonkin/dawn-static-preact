@@ -17,7 +17,12 @@
   },
   "homepage": "https://github.com/hsdonkin/dawn-static-preact#readme",
   "dependencies": {
+    "@apollo/client": "^3.4.17",
+    "dotenv": "^16.0.0",
     "esbuild": "^0.14.28",
+    "graphql": "^15.7.2",
+    "graphql-tag": "^2.12.6",
+    "node-fetch": "^3.2.3",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
